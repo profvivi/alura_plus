@@ -103,6 +103,11 @@ body {
     padding: 2em;
 }
 /*inicio 5ªsection*/
+
+    font-size: 32px;
+    color: var(--branco-principal);
+}
+
 .dispositivos__lista {
     display: flex;
     justify-content: center;
@@ -119,11 +124,7 @@ body {
     color: var(--branco-principal);
 }
 
-.lista__item {
-    font-size: 32px;
-    color: var(--branco-principal);
-}
-/*inicio rodapé*/
+.lista__item {rodapé
 .rodape {
     text-align: center;
     margin: 5em 3em;
